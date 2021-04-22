@@ -1,0 +1,18 @@
+=>Playing Character & Non Playing Character
+Shooter, Animation
+=>Goal
+Concentration
+=>Rules
+No of Chances, Precision(Set Collider)
+=>Balanced
+Shoots 3 objects with 3 bullets gets a free bullet
+=>Adaptive
+Precision level increases as the level increases & also the velocity
+=>Elements of Chance
+Random spawning 
+=>Elements of Skills
+Concentration
+=>Imediate Feedback
+Lives
+=>Story
+
